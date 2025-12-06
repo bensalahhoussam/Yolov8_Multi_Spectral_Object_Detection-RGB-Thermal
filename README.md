@@ -1,6 +1,9 @@
-![ezgif-41d2a3f8e1588a](https://github.com/user-attachments/assets/0d811fb8-379b-41ba-a2e6-cf462953ea32)# Multispectral Object Detection for Autonomous Driving in Night Scenes
+# Multispectral Object Detection for Autonomous Driving in Night Scenes
+
 
 This project focuses on improving object detection in challenging night-time environments by leveraging multispectral data. Standard RGB cameras often struggle in low-light conditions, leading to poor detection accuracy and reduced safety in autonomous driving. To overcome this limitation, we integrate RGB and thermal (infrared) imagery for robust perception at night.
+
+![ezgif-41d2a3f8e1588a](https://github.com/user-attachments/assets/0d811fb8-379b-41ba-a2e6-cf462953ea32)
 
 ## Key Contributions
 
